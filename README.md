@@ -39,7 +39,7 @@ Whether you need a straightforward text editor for quick note-taking or a tool f
 
 ## Contributing
 
-Contribute to enhance the application's features or improve its usability are welcome. Please follow the steps outlined in the "Contributing" section of the README.
+Contribute to enhance the application's features or improve its usability are welcome. Please follow the steps outlined in the "Usage" section of the README.
 
 ## License
 
