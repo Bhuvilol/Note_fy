@@ -33,7 +33,8 @@ Whether you need a straightforward text editor for quick note-taking or a tool f
 4. Use the menus, buttons, and keyboard shortcuts to create, edit, save, and open text documents.
 
 ## Screenshots
-![Screenshot (2032)](https://github.com/thdonadkar/Notepad/assets/72977141/73f39d77-b28d-49cb-9a62-d43c3e648a17)
+![Screenshot (203)](https://github.com/user-attachments/assets/c5f856ee-4e57-4b2a-9c71-5bb9a24808ce)
+)
 
 
 ## Contributing
