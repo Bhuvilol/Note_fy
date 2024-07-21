@@ -27,9 +27,9 @@ Whether you need a straightforward text editor for quick note-taking or a tool f
 
 ## Usage
 
-1. Clone the repository using `git clone https://github.com/thdonadkar/Notepad.git`.
-2. Compile the Java files using `javac NotepadApp.java`.
-3. Run the application with `java NotepadApp`.
+1. Clone the repository using `git clone https://github.com/Bhuvilol/Note_fy.git`.
+2. Compile the Java files using `javac notepad.java`.
+3. Run the application with `java notepad`.
 4. Use the menus, buttons, and keyboard shortcuts to create, edit, save, and open text documents.
 
 ## Screenshots
