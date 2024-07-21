@@ -1,7 +1,7 @@
 # Note_fy
 A simple desktop based note taking application .
 
-The Java Notepad Clone is a simple yet functional desktop application that replicates the essential features of the classic Notepad text editor. Developed using Java's Swing and AWT libraries, this application provides a user-friendly interface for creating, editing, saving, and opening text documents.
+The Note-fy is a simple yet functional desktop application that replicates the essential features of the classic Notepad text editor. Developed using Java's Swing and AWT libraries, this application provides a user-friendly interface for creating, editing, saving, and opening text documents.
 
 ## Key Features
 
