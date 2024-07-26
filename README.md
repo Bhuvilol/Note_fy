@@ -35,6 +35,11 @@ Whether you need a straightforward text editor for quick note-taking or a tool f
 ## Screenshots
 ![Screenshot (203)](https://github.com/user-attachments/assets/c5f856ee-4e57-4b2a-9c71-5bb9a24808ce)
 
+#### How to run the program:
+
+* Just download the Note_fy.jar file
+* Run it 
+* Start typing.
 
 ## Contributing
 
